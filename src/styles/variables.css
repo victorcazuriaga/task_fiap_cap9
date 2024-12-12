@@ -1,0 +1,13 @@
+:root {
+    --color-primary: #190FAC;
+    --color-secondary: #D7D7D7;
+    --color-success: #28a745;
+    --color-danger: #dc3545;
+    --color-muted: #818181;
+    --color-link: #190FAC;
+    --color-gray: #6c757d;
+  
+    --font-family-base: 'Poppins', sans-serif;
+  
+    --border-radius: 50px;
+  }
